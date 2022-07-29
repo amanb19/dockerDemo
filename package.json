@@ -1,0 +1,23 @@
+{
+  "name": "dockerdemo",
+  "version": "1.0.0",
+  "description": "this is docker demo practice day 9",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanb19/dockerDemo.git"
+  },
+  "author": "aman bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanb19/dockerDemo/issues"
+  },
+  "homepage": "https://github.com/amanb19/dockerDemo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
